@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 100%;
+  min-height: 1210px;
+  background: url("https://images.unsplash.com/photo-1446831687499-c9188a15b9bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=100") no-repeat center bottom  fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
